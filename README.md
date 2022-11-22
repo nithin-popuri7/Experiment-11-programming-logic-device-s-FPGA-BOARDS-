@@ -1,4 +1,4 @@
-# Experiment-11-programming-logic-device-s-FPGA-BOARDS-
+# Experiment-10-programming-logic-device-s-FPGA-BOARDS-
 ### AIM: To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -8,9 +8,13 @@ Developed By:P.Siva Naga Nithin.
 Reg.No:212221240037.
 ```
 ### Procedure 
+
 Start the Quartus II Programmer.
+
 Click Add File and select the path to the desired .sof.
+
 Turn on the Program/Configure option for the added file.
+
 Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
 
 
@@ -21,7 +25,7 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 ![ex10 2](https://user-images.githubusercontent.com/94154780/203317123-38b53ff3-a8cf-4021-b8f8-4123d561333c.jpeg)
 
-![Uploading ex10.3.jpeg…]()
+![github.logo](ex10.3.jpeg)
 
 
 
